@@ -1,0 +1,5 @@
+{
+  "name": "WhatsApp Bulk Messenger AI",
+  "description": "An application to schedule and send WhatsApp messages in bulk by parsing contact lists. It features a configurable time interval to prevent blocking and an AI-powered message generator to create personalized messages based on client type and services offered.",
+  "requestFramePermissions": []
+}
